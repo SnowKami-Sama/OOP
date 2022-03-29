@@ -1,0 +1,16 @@
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\bin\Debug\net5.0\H13 Lijst.exe
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\bin\Debug\net5.0\H13 Lijst.deps.json
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\bin\Debug\net5.0\H13 Lijst.runtimeconfig.json
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\bin\Debug\net5.0\H13 Lijst.runtimeconfig.dev.json
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\bin\Debug\net5.0\H13 Lijst.dll
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\bin\Debug\net5.0\ref\H13 Lijst.dll
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\bin\Debug\net5.0\H13 Lijst.pdb
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\obj\Debug\net5.0\H13 Lijst.csproj.AssemblyReference.cache
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\obj\Debug\net5.0\H13 Lijst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\obj\Debug\net5.0\H13 Lijst.AssemblyInfoInputs.cache
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\obj\Debug\net5.0\H13 Lijst.AssemblyInfo.cs
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\obj\Debug\net5.0\H13 Lijst.csproj.CoreCompileInputs.cache
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\obj\Debug\net5.0\H13 Lijst.dll
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\obj\Debug\net5.0\ref\H13 Lijst.dll
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\obj\Debug\net5.0\H13 Lijst.pdb
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\H13\H13 Lijst\obj\Debug\net5.0\H13 Lijst.genruntimeconfig.cache

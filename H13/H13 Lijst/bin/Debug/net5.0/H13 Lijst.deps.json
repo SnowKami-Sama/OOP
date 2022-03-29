@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "H13 Lijst/1.0.0": {
+        "runtime": {
+          "H13 Lijst.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "H13 Lijst/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
