@@ -1,0 +1,14 @@
+C:\Users\gebruiker\Desktop\Graduaat\OOP\Labo1\Labo 1 OOP\bin\Debug\netcoreapp3.1\Labo 1 OOP.exe
+C:\Users\gebruiker\Desktop\Graduaat\OOP\Labo1\Labo 1 OOP\bin\Debug\netcoreapp3.1\Labo 1 OOP.deps.json
+C:\Users\gebruiker\Desktop\Graduaat\OOP\Labo1\Labo 1 OOP\bin\Debug\netcoreapp3.1\Labo 1 OOP.runtimeconfig.json
+C:\Users\gebruiker\Desktop\Graduaat\OOP\Labo1\Labo 1 OOP\bin\Debug\netcoreapp3.1\Labo 1 OOP.runtimeconfig.dev.json
+C:\Users\gebruiker\Desktop\Graduaat\OOP\Labo1\Labo 1 OOP\bin\Debug\netcoreapp3.1\Labo 1 OOP.dll
+C:\Users\gebruiker\Desktop\Graduaat\OOP\Labo1\Labo 1 OOP\bin\Debug\netcoreapp3.1\Labo 1 OOP.pdb
+C:\Users\gebruiker\Desktop\Graduaat\OOP\Labo1\Labo 1 OOP\obj\Debug\netcoreapp3.1\Labo 1 OOP.csproj.AssemblyReference.cache
+C:\Users\gebruiker\Desktop\Graduaat\OOP\Labo1\Labo 1 OOP\obj\Debug\netcoreapp3.1\Labo 1 OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gebruiker\Desktop\Graduaat\OOP\Labo1\Labo 1 OOP\obj\Debug\netcoreapp3.1\Labo 1 OOP.AssemblyInfoInputs.cache
+C:\Users\gebruiker\Desktop\Graduaat\OOP\Labo1\Labo 1 OOP\obj\Debug\netcoreapp3.1\Labo 1 OOP.AssemblyInfo.cs
+C:\Users\gebruiker\Desktop\Graduaat\OOP\Labo1\Labo 1 OOP\obj\Debug\netcoreapp3.1\Labo 1 OOP.csproj.CoreCompileInputs.cache
+C:\Users\gebruiker\Desktop\Graduaat\OOP\Labo1\Labo 1 OOP\obj\Debug\netcoreapp3.1\Labo 1 OOP.dll
+C:\Users\gebruiker\Desktop\Graduaat\OOP\Labo1\Labo 1 OOP\obj\Debug\netcoreapp3.1\Labo 1 OOP.pdb
+C:\Users\gebruiker\Desktop\Graduaat\OOP\Labo1\Labo 1 OOP\obj\Debug\netcoreapp3.1\Labo 1 OOP.genruntimeconfig.cache
