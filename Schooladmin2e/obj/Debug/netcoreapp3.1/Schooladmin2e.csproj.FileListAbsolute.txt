@@ -1,0 +1,14 @@
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\Schooladmin2e\bin\Debug\netcoreapp3.1\Schooladmin2e.exe
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\Schooladmin2e\bin\Debug\netcoreapp3.1\Schooladmin2e.deps.json
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\Schooladmin2e\bin\Debug\netcoreapp3.1\Schooladmin2e.runtimeconfig.json
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\Schooladmin2e\bin\Debug\netcoreapp3.1\Schooladmin2e.runtimeconfig.dev.json
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\Schooladmin2e\bin\Debug\netcoreapp3.1\Schooladmin2e.dll
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\Schooladmin2e\bin\Debug\netcoreapp3.1\Schooladmin2e.pdb
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\Schooladmin2e\obj\Debug\netcoreapp3.1\Schooladmin2e.csproj.AssemblyReference.cache
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\Schooladmin2e\obj\Debug\netcoreapp3.1\Schooladmin2e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\Schooladmin2e\obj\Debug\netcoreapp3.1\Schooladmin2e.AssemblyInfoInputs.cache
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\Schooladmin2e\obj\Debug\netcoreapp3.1\Schooladmin2e.AssemblyInfo.cs
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\Schooladmin2e\obj\Debug\netcoreapp3.1\Schooladmin2e.csproj.CoreCompileInputs.cache
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\Schooladmin2e\obj\Debug\netcoreapp3.1\Schooladmin2e.dll
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\Schooladmin2e\obj\Debug\netcoreapp3.1\Schooladmin2e.pdb
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\Schooladmin2e\obj\Debug\netcoreapp3.1\Schooladmin2e.genruntimeconfig.cache
