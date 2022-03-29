@@ -1,0 +1,13 @@
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\CVS\obj\Debug\netcoreapp3.1\CVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\CVS\obj\Debug\netcoreapp3.1\CVS.AssemblyInfoInputs.cache
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\CVS\obj\Debug\netcoreapp3.1\CVS.AssemblyInfo.cs
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\CVS\obj\Debug\netcoreapp3.1\CVS.csproj.CoreCompileInputs.cache
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\CVS\bin\Debug\netcoreapp3.1\CVS.exe
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\CVS\bin\Debug\netcoreapp3.1\CVS.deps.json
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\CVS\bin\Debug\netcoreapp3.1\CVS.runtimeconfig.json
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\CVS\bin\Debug\netcoreapp3.1\CVS.runtimeconfig.dev.json
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\CVS\bin\Debug\netcoreapp3.1\CVS.dll
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\CVS\bin\Debug\netcoreapp3.1\CVS.pdb
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\CVS\obj\Debug\netcoreapp3.1\CVS.dll
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\CVS\obj\Debug\netcoreapp3.1\CVS.pdb
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\CVS\obj\Debug\netcoreapp3.1\CVS.genruntimeconfig.cache
