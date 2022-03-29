@@ -1,0 +1,14 @@
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\foreach\obj\Debug\netcoreapp3.1\foreach.csproj.AssemblyReference.cache
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\foreach\obj\Debug\netcoreapp3.1\foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\foreach\obj\Debug\netcoreapp3.1\foreach.AssemblyInfoInputs.cache
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\foreach\obj\Debug\netcoreapp3.1\foreach.AssemblyInfo.cs
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\foreach\obj\Debug\netcoreapp3.1\foreach.csproj.CoreCompileInputs.cache
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\foreach\bin\Debug\netcoreapp3.1\foreach.exe
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\foreach\bin\Debug\netcoreapp3.1\foreach.deps.json
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\foreach\bin\Debug\netcoreapp3.1\foreach.runtimeconfig.json
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\foreach\bin\Debug\netcoreapp3.1\foreach.runtimeconfig.dev.json
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\foreach\bin\Debug\netcoreapp3.1\foreach.dll
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\foreach\bin\Debug\netcoreapp3.1\foreach.pdb
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\foreach\obj\Debug\netcoreapp3.1\foreach.dll
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\foreach\obj\Debug\netcoreapp3.1\foreach.pdb
+C:\Users\gebruiker\Desktop\‎\Graduaat\OOP\Labo1\foreach\obj\Debug\netcoreapp3.1\foreach.genruntimeconfig.cache
